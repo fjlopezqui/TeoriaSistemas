@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "tarea4_DiagramaSistemaContinuo/1.0.0": {
+      "tarea4_DiagramaContinuo/1.0.0": {
         "runtime": {
-          "tarea4_DiagramaSistemaContinuo.dll": {}
+          "tarea4_DiagramaContinuo.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "tarea4_DiagramaSistemaContinuo/1.0.0": {
+    "tarea4_DiagramaContinuo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

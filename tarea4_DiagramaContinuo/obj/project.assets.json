@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\flope\\Documents\\GitHub\\TeoriaSistemas\\tarea4_DiagramaSistemaContinuo\\tarea4_DiagramaSistemaContinuo.csproj",
-      "projectName": "tarea4_DiagramaSistemaContinuo",
-      "projectPath": "C:\\Users\\flope\\Documents\\GitHub\\TeoriaSistemas\\tarea4_DiagramaSistemaContinuo\\tarea4_DiagramaSistemaContinuo.csproj",
+      "projectUniqueName": "C:\\Users\\flope\\Documents\\GitHub\\TeoriaSistemas\\tarea4_DiagramaContinuo\\tarea4_DiagramaContinuo.csproj",
+      "projectName": "tarea4_DiagramaContinuo",
+      "projectPath": "C:\\Users\\flope\\Documents\\GitHub\\TeoriaSistemas\\tarea4_DiagramaContinuo\\tarea4_DiagramaContinuo.csproj",
       "packagesPath": "C:\\Users\\flope\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\flope\\Documents\\GitHub\\TeoriaSistemas\\tarea4_DiagramaSistemaContinuo\\obj\\",
+      "outputPath": "C:\\Users\\flope\\Documents\\GitHub\\TeoriaSistemas\\tarea4_DiagramaContinuo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flope\\AppData\\Roaming\\NuGet\\NuGet.Config"

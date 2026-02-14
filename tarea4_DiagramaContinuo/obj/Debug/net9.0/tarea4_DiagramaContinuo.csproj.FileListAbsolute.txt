@@ -1,0 +1,15 @@
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\bin\Debug\net9.0\tarea4_DiagramaContinuo.exe
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\bin\Debug\net9.0\tarea4_DiagramaContinuo.deps.json
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\bin\Debug\net9.0\tarea4_DiagramaContinuo.runtimeconfig.json
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\bin\Debug\net9.0\tarea4_DiagramaContinuo.dll
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\bin\Debug\net9.0\tarea4_DiagramaContinuo.pdb
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\obj\Debug\net9.0\tarea4_DiagramaContinuo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\obj\Debug\net9.0\tarea4_DiagramaContinuo.AssemblyInfoInputs.cache
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\obj\Debug\net9.0\tarea4_DiagramaContinuo.AssemblyInfo.cs
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\obj\Debug\net9.0\tarea4_DiagramaContinuo.csproj.CoreCompileInputs.cache
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\obj\Debug\net9.0\tarea4_DiagramaContinuo.sourcelink.json
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\obj\Debug\net9.0\tarea4_DiagramaContinuo.dll
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\obj\Debug\net9.0\refint\tarea4_DiagramaContinuo.dll
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\obj\Debug\net9.0\tarea4_DiagramaContinuo.pdb
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\obj\Debug\net9.0\tarea4_DiagramaContinuo.genruntimeconfig.cache
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaContinuo\obj\Debug\net9.0\ref\tarea4_DiagramaContinuo.dll
