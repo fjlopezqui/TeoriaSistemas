@@ -21,7 +21,7 @@ class Program
         Random random = new Random();
 
         int pisoActual = 0;
-        int capacidadMaxima = 10;
+        int capacidadMaxima = 9;
         int personasDentro = 0;
         int pisoDestino = 0;
         bool ocupado = false;
