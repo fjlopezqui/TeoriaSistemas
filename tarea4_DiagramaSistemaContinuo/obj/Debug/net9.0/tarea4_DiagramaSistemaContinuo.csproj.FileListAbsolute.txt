@@ -1,0 +1,15 @@
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\bin\Debug\net9.0\tarea4_DiagramaSistemaContinuo.exe
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\bin\Debug\net9.0\tarea4_DiagramaSistemaContinuo.deps.json
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\bin\Debug\net9.0\tarea4_DiagramaSistemaContinuo.runtimeconfig.json
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\bin\Debug\net9.0\tarea4_DiagramaSistemaContinuo.dll
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\bin\Debug\net9.0\tarea4_DiagramaSistemaContinuo.pdb
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\obj\Debug\net9.0\tarea4_DiagramaSistemaContinuo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\obj\Debug\net9.0\tarea4_DiagramaSistemaContinuo.AssemblyInfoInputs.cache
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\obj\Debug\net9.0\tarea4_DiagramaSistemaContinuo.AssemblyInfo.cs
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\obj\Debug\net9.0\tarea4_DiagramaSistemaContinuo.csproj.CoreCompileInputs.cache
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\obj\Debug\net9.0\tarea4_DiagramaSistemaContinuo.sourcelink.json
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\obj\Debug\net9.0\tarea4_DiagramaSistemaContinuo.dll
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\obj\Debug\net9.0\refint\tarea4_DiagramaSistemaContinuo.dll
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\obj\Debug\net9.0\tarea4_DiagramaSistemaContinuo.pdb
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\obj\Debug\net9.0\tarea4_DiagramaSistemaContinuo.genruntimeconfig.cache
+C:\Users\flope\Documents\GitHub\TeoriaSistemas\tarea4_DiagramaSistemaContinuo\obj\Debug\net9.0\ref\tarea4_DiagramaSistemaContinuo.dll
