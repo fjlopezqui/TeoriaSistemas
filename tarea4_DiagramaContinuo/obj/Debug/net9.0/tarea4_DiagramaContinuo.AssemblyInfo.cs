@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tarea4_DiagramaContinuo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a698b95d01c89bdd49f207dc96de0d3d589901f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2e4b460f99be8ba42121fe0c211b82d0e87a38d")]
 [assembly: System.Reflection.AssemblyProductAttribute("tarea4_DiagramaContinuo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tarea4_DiagramaContinuo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
